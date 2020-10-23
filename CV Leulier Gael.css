@@ -1,0 +1,41 @@
+@font-face
+{
+	font-family: 'SourceSansPro-Regular';
+	src: url('SourceSansPro-Regular.otf') format (otf);
+	front-weight: normal;
+	front-style: normal;
+}
+h1 
+{
+	color: grey;
+	text-align: center;
+
+}
+h1
+{
+	border: 3px black solid;
+	box-shadow: 6px 6px 6px black;
+}
+h2
+{text-align: center;}
+h3
+{
+	text-align: center;
+}
+ul
+{
+	text-align: center;
+}
+
+p
+{
+	text-align: center;
+}
+figure
+{
+ 	text-align: center;
+}
+body
+{
+	background-image: url(code.png);
+}
